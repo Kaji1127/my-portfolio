@@ -13,7 +13,10 @@ const Logos = ({ footer }) => {
 				<a href="https://github.com/Kaji1127" target="_blank">
 					<GithubIcon className={styles['icons-github']} alt="github icon" />
 				</a>
-				<a href="https://www.frontendmentor.io/profile/Kaji1127">
+				<a
+					href="https://www.frontendmentor.io/profile/Kaji1127"
+					target="_blank"
+				>
 					<FemIcon className={styles['icons-fem']} alt="frontend-mentor icon" />
 				</a>
 			</div>
