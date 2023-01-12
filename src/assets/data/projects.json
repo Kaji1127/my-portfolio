@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"title": "Easybank landing Page",
+		"skills": ["Html", "SASS", "JAVASCRIPT"],
+		"projectUrl": "https://kaji1127.github.io/Easybank-Landing-Page/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/Easybank-Landing-Page",
+		"thumbnail": "/projects/thumbnail-project-easybank-landing-page.png"
+	},
+	{
+		"id": 2,
+		"title": "Designo Multi Page Website",
+		"skills": ["Next.js", "SASS"],
+		"projectUrl": "https://designo-multi-page-website-wheat.vercel.app/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/designo-multi-page-website",
+		"thumbnail": "/projects/thumbnail-project-designo-multi-page-website.png"
+	},
+	{
+		"id": 3,
+		"title": "Todo Web App",
+		"skills": ["React", "SASS"],
+		"projectUrl": "https://react-todolist-appli.netlify.app/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/todo-app",
+		"thumbnail": "/projects/thumbnail-project-todo-app.png"
+	},
+	{
+		"id": 4,
+		"title": "ENTERTAINMENT WEB APP",
+		"skills": ["React", "SASS"],
+		"projectUrl": "https://entertaiment-web-app.netlify.app/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/Entertaiment-Web-App",
+		"thumbnail": "/projects/thumbnail-project-entertaiment-web-app.png"
+	},
+	{
+		"id": 5,
+		"title": "Art gallery website",
+		"skills": ["Html", "CSS", "JavaScript"],
+		"projectUrl": "https://kaji1127.github.io/Art-Gallery-Website/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/Art-Gallery-Website",
+		"thumbnail": "/projects/thumbnail-project-art-gallery-website.png"
+	},
+	{
+		"id": 6,
+		"title": "Single Page Design Portfolio",
+		"skills": ["React", "CSS"],
+		"projectUrl": "https://fem-single-page-design-portfolio.netlify.app/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/fem-single-page-design-portfolio",
+		"thumbnail": "/projects/thumbnail-project-single-design-portfolio.png"
+	},
+	{
+		"id": 7,
+		"title": "Social media dashboard",
+		"skills": ["React", "Sass"],
+		"projectUrl": "https://media-dashboard-social.netlify.app/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/social-media-dashboard",
+		"thumbnail": "/projects/thumbnail-project-social-media-dashboard.png"
+	},
+	{
+		"id": 8,
+		"title": "Loopstudios Landing Page",
+		"skills": ["Html", "Sass", "JavaScript"],
+		"projectUrl": "https://kaji1127.github.io/Loopstudios-LP/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/Loopstudios-LP",
+		"thumbnail": "/projects/thumbnail-project-loopstudios-landing-page.jpg"
+	},
+	{
+		"id": 9,
+		"title": "Github user search app",
+		"skills": ["React", "Sass"],
+		"projectUrl": "https://react-github-user-search-application.netlify.app/",
+		"sourceCodeUrl": "https://github.com/Kaji1127/github-search-app",
+		"thumbnail": "/projects/thumbnail-project-github-user-search-app.png"
+	}
+]

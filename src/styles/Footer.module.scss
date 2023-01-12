@@ -1,0 +1,12 @@
+@import './breakpoints.scss';
+@import './mixin.scss';
+
+.footer {
+	background-color: var(--dark-gray);
+	padding: 2.4rem 0;
+	position: relative;
+
+	.container {
+		margin: 0 auto;
+	}
+}

@@ -1,0 +1,13 @@
+@import './breakpoints.scss';
+@import './mixin.scss';
+
+.header {
+	margin: 0 auto 3.2rem;
+	@include mq(md) {
+		margin-bottom: 0;
+	}
+
+	// 	@include mq(lg) {
+	// 		top: 4rem;
+	// 	}
+}
